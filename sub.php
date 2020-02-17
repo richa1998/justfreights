@@ -13,7 +13,7 @@
 <div class="content">
 
   <div class="left">
-    &nbsp;&nbsp;&nbsp;200+ shipping<br> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;Agents<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;are using <br>JUST FREIGHTS<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;daily<br>and growing their <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;business 3x
+    &nbsp;&nbsp;&nbsp;200+ shipping<br> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;Agents<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;are using <br>JUST FREIGHTS<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;daily<br>and growing their richa............... <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;business 3x
 </div>
 <div class="right">
   <form>
